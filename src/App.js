@@ -5,7 +5,7 @@ import Token from "./artifacts/contracts/Token.sol/Token.json";
 import "./App.css";
 
 const greeterAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
-const tokenAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
+const tokenAddress = "0xe7f1725e7734ce288f8367e1bb143e90bb3f0512";
 
 function App() {
   const [greeting, setGreetingValue] = useState();
