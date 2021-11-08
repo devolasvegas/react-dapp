@@ -5,7 +5,7 @@ import "hardhat/console.sol";
 
 contract Token {
   string public name = "Doobie Doo Token";
-  string public symbol = "NDT";
+  string public symbol = "DDT";
   uint public totalSupply = 1000000;
   mapping(address => uint) balances;
 
